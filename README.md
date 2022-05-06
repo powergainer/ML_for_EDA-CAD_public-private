@@ -24,6 +24,15 @@ Language / framework: Python / Tensorflow
 ## Goal
 Just to show the excercises / programs done / lessons learnt.
 
+## Code
+
+* [Introduction to Tensorflow](https://github.com/powergainer/ML_for_EDA-CAD/Introduction_To_Tensorflow_Dario.ipynb), compute graph, nodes, sessions concept in Tensorflow.
+* [Gradient descent implementation in Python](https://github.com/powergainer/ML_for_EDA-CAD/GradientDescentAlgo_Dario.ipynb)
+* [Resistance estimation with linear regression](https://github.com/powergainer/ML_for_EDA-CAD/Resistance_Estimation_with_Linear_Regression_Dario_Final.ipynb) using data from a chip for a 20nm process node. Using a 2D array of wire-length, wire-width, temperature and wire-resistance as our dataset for linear regression.
+* [Capacitance estimation with multinomial regression](https://github.com/powergainer/ML_for_EDA-CAD/Capacitance_Estimation_Dario.ipynb) on a 20nm process node. Based on a 2D array of wire-length, wire-width, wire-thickness and wire-capacitance, we use wire length, wire width and wire thickness to predict wire capacitance using multinomial regression.
+
+
+
 ## Link to Actual repo
 The actual repo is set as private and can be accessed [here](https://github.com/powergainer/ML_for_EDA-CAD) by allowed viewers.
 
