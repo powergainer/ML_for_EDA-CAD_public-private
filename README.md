@@ -14,7 +14,7 @@ Copyright © 2018, Rohit Sharma. Paripath Inc. This program is free software: yo
 "
 
 ## Python / Tensorflow
-Languages: Python / Tensorflow
+Language / framework: Python / Tensorflow
 
 ## Python packages used
 * Matplotlib
